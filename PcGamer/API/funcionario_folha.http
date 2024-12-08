@@ -1,9 +1,4 @@
-###Teste APi
-
-GET http://localhost:5065/
-
-
-GET = http://localhost:5065/api
+@base_url = http://localhost:5065/api
 
 # FUNCIONÁRIO ######################################
 
